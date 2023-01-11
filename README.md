@@ -1,4 +1,4 @@
- <h1>StretPro2<h1>
+<h1>StretPro2<h1>
 <h2> Projekt Drehteller <h2>
 
 <p>In diesem Projekt werden wir ein Drehteller programmieren auf den man Produkte vorstellen kann.<p>
