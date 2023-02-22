@@ -9,7 +9,8 @@
     <li>Leon Rothauer</li>
     <li>Moritz Rettensteiner</li>
     <li>Lukas Promegger</li>
-    <li>Johannes Stindl<li>
-  </ol>
+    <li>Johannes Stindl</li>
+    <li>Vitus Emberge</li>
+  </ol
   
 <h3>Alle aufgelisteten Personen sind Schüler der 4AHINF in der HTL Saalfelden<h3>
